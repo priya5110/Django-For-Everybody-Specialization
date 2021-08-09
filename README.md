@@ -2,9 +2,9 @@
 
 # Django for Everybody Specialization by University of Michigan (Coursera) 
 
-[Course 1 - Web Application Technologies and Django](https://github.com/priya5110/Django-Specialization-Coursera/tree/main/Building%20Web%20Applications%20in%20Django)
+[Course 1 - Web Application Technologies and Django]
 
-Course 2 - Building Web Applications in Django
+[Course 2 - Building Web Applications in Django](https://github.com/priya5110/Django-Specialization-Coursera/tree/main/Building%20Web%20Applications%20in%20Django)
 
 Course 3 - Django Features and Libraries
 
