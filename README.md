@@ -1,6 +1,6 @@
 ## Django-Specialization-Coursera
 
-#Django for Everybody Specialization by University of Michigan (Coursera) 
+# Django for Everybody Specialization by University of Michigan (Coursera) 
 
 Course 1 - Web Application Technologies and Django
 Course 2 - Building Web Applications in Django
