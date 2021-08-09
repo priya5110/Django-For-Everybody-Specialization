@@ -9,7 +9,7 @@ Course 2 - Building Web Applications in Django
 Course 3 - Django Features and Libraries
 
 
-Pull requests are welcome if there's an error in the solution or wrong answers are provided.
+Pull requests are welcome if there's an error in the solution.
 
 These assignments form the building blocks so it will be better if you complete the assignments on your own. 
 
