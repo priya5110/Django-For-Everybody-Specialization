@@ -6,7 +6,7 @@
 
 [Course 2 - Building Web Applications in Django](https://github.com/priya5110/Django-Specialization-Coursera/tree/main/Building%20Web%20Applications%20in%20Django)
 
-Course 3 - Django Features and Libraries
+[Course 3 - Django Features and Libraries](https://github.com/priya5110/Django-Specialization-Coursera/tree/main/Django%20Features%20and%20Libraries)
 
 
 Pull requests are welcome if there's an error in the solution.
