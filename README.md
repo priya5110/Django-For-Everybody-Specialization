@@ -8,9 +8,10 @@
 
 [Course 3 - Django Features and Libraries](https://github.com/priya5110/Django-Specialization-Coursera/tree/main/Django%20Features%20and%20Libraries)
 
+[Course 4 - Using JavaScript, JQuery and JSON in Django](https://github.com/priya5110/Django-Specialization-Coursera/tree/main/Using%20JavaScript%2C%20JQuery%2C%20and%20JSON%20in%20Django)
 
 Pull requests are welcome if there's an error in the solution.
 
-These assignments form the building blocks so it will be better if you complete the assignments on your own. 
+Preferably complete the assignments on your own. 
 
 Please star this if you find it helpful.
